@@ -10,7 +10,6 @@
     "@types/node": "12.7.5",
     "lint-staged": "^9.2.5",
     "prettier": "^1.18.2",
-    "styled-components": "^4.3.2",
     "typescript": "3.6.3"
   },
   "lint-staged": {
